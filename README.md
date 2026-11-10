@@ -60,66 +60,52 @@ I'm a Computer Science student and aspiring backend developer from Bangladesh �
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 EZ SHOP — E-commerce Web Application
-
-A web-based e-commerce project built with Java and Spring Boot, featuring server-side rendering with Thymeleaf.
-
-- Focus: Backend development and e-commerce workflows
-- Repository: [EZ SHOP](https://github.com/Ishmam07/EZ-SHOP-An-online-e-commerce-site)
-
-### 📓 Journal App — Backend Application
-
-A Spring Boot application exploring backend application development and data persistence.
-
-- Technologies: Java, Spring Boot, MongoDB
-- Repository: [journalApp](https://github.com/Ishmam07/journalApp)
-
-### 🌱 EcoCode Scheduler — Sustainable Computing
-
-A project exploring AI-assisted task scheduling and energy-aware computing workflows.
-
-- Focus: Backend APIs, task scheduling, and estimated energy/CO₂ metrics
-- Repository: [Find my EcoCode repositories](https://github.com/Ishmam07?tab=repositories)
-
-### 🍲 Khabar Koi — Collaborative Food Marketplace
-
-A collaborative project focused on a food marketplace experience for the DIU community.
-
-- Focus: Collaborative software development and application features
-- Status: In development
-
-*Some projects are ongoing. Check their repositories for the latest implementation details.*
-
----
-
-## 📊 GitHub Analytics
+🚀 Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshmam07&query=%24.public_repos&label=Public%20Repositories&color=blueviolet" alt="Public repositories"/>
+  <a href="https://github.com/Ishmam07/EZ-SHOP-An-online-e-commerce-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishmam07&repo=EZ-SHOP-An-online-e-commerce-site&theme=tokyonight&hide_border=true" alt="EZ SHOP"/>
+  </a>
+  <a href="https://github.com/Ishmam07/journalApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishmam07&repo=journalApp&theme=tokyonight&hide_border=true" alt="Journal App"/>
+  </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ishmam07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+  🍲 **Khabar Koi** — Collaborative DIU food marketplace project
+  <br/>
+  <a href="https://github.com/morsalin101/kitchen-frontend">View Repository</a>
+</p>
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishmam07&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" alt="GitHub Contribution Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshmam07&query=%24.public_repos&label=Public%20Repositories&color=blueviolet&style=for-the-badge" alt="Public Repositories"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishmam07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs" alt="GitHub Stars and Statistics"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishmam07&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishmam07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&height=300&radius=8" alt="GitHub Contribution Activity Graph"/>
 </p>
-
 ---
 
-## 🏆 GitHub Trophies
+🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishmam07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishmam07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
 ---
 
 ## 🧩 Competitive Programming
