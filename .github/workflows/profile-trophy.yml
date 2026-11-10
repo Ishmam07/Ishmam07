@@ -1,0 +1,44 @@
+name: Update GitHub Profile Trophies
+
+on:
+  # Update trophies every Sunday
+  schedule:
+    - cron: "0 0 * * 0"
+
+  # Allow manual execution
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout your profile repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Generate GitHub trophies
+      - name: Generate Trophy Card
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=Ishmam07&theme=tokyonight&column=6&margin-w=15&margin-h=15'
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      # Save generated trophy to repository
+      - name: Commit and Push Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/trophy.svg
+
+          if git diff --cached --quiet; then
+            echo "No trophy changes detected."
+          else
+            git commit -m "Update GitHub profile trophies"
+            git push
+          fi
